@@ -6,7 +6,7 @@ git config --global user.email "email"
 
 
 
-
+git config --global core.editor notepad++ 
 
 git clone <url> name
 
