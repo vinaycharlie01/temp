@@ -11,5 +11,10 @@ func main() {
 	fmt.Println("Hello git push")
 	fmt.Println("Hi")
 
+	fmt.Println("untracl")
 	fmt.Println("New updated")
+
+	go func() {
+
+	}()
 }
