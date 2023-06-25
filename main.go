@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("Hello world!")
 	fmt.Println("Hello git push")
 	fmt.Println("Hi")
+
+	fmt.Println("New updated")
 }
